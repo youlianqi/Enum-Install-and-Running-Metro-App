@@ -1,7 +1,7 @@
 # Enum-Install-and-Running-Metro-App
 
+# Created by Robin You on 2015-06-15
+# Email: youlianqi@163.com
 
 This demo can enmuerate install metro applications and running metro applications.
 Open it by VS2008.
-
-If hava any questions, email to youlianqi@163.com. 
